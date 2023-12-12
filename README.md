@@ -4,6 +4,9 @@
  - The data is in ASCII CSV format. The rows of the CSV file contain an instance corresponding to one voice recording.
  -  The main aim of the data is to discriminate healthy people from those with PD, according to "status" column which is set to 0 for healthy and 1 for PD.
 
+Original Dataset : https://www.kaggle.com/nidaguler/parkinsons-data-set
+Download Dataset in CSV : https://www.kaggle.com/sagarbapodara/parkinson-csv
+
 # Libraries:
  - pandas as pd
  - numpy as np
