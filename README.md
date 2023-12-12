@@ -1,4 +1,4 @@
-# Parkison Disease Detection using SVM
+# Parkison Disease Detection 
 # Dataset:
  - This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD).
  - The data is in ASCII CSV format. The rows of the CSV file contain an instance corresponding to one voice recording.
